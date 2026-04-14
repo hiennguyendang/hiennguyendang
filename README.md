@@ -66,7 +66,7 @@
 ## Contact
 
 <div>
-  <a href="mailto:manhkhang0305@gmail.com" target="_blank">
+  <a href="mailto:cpichu381@gmail.com" target="_blank">
     <img src="images/contact/gmail.png" height="40" alt="gmail logo"/>
   </a>
   <img width="12"/>
